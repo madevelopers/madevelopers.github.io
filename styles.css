@@ -1,0 +1,57 @@
+body, ul, p {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background: #ecf0f1;
+    color: #3498db;
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.1;        
+}
+
+#wrapper {
+    text-align: center;
+    height: 100%;    
+}
+#wrapper:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    margin-right: -0.25em;
+}
+
+#main {        
+    display: inline-block;
+    vertical-align: middle;    
+}
+
+#site-name {
+    color: #34495e;
+    font-family: "Oleo Script Swash Caps";
+    font-size: 1.8rem;
+}
+
+#message {
+    color: #1abc9c;
+    font-family: Cabin;
+    font-size: 3.5rem;
+    font-weight: bold;    
+    text-transform: uppercase;
+    text-shadow: 1px 1px 0 #fff;
+    margin: 0.1em 0 0.2em 0;
+}
+
+#contact-info {
+    list-style: none;
+}
+#contact-info a {
+    color: #2980b9;
+    font-size: 0.8rem;
+    text-decoration: none;
+}
