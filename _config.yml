@@ -4,4 +4,4 @@ pygments: true
 timezone:
 encoding: utf-8
 timezone: Asia/Manila
-permalink: /:title
+permalink: /journal/:title
