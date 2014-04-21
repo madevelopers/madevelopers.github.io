@@ -4,9 +4,4 @@ pygments: true
 timezone:
 encoding: utf-8
 timezone: Asia/Manila
-
-destination: ./_jekyll/_site
-plugins: ./_jekyll/_plugins
-layouts: ./_jekyll/_layouts
-
 permalink: /:title
