@@ -1,7 +1,0 @@
-name: Your New Jekyll Site
-markdown: redcarpet
-pygments: true
-timezone:
-encoding: utf-8
-timezone: Asia/Manila
-permalink: /journal/:title
